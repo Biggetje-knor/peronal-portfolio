@@ -1,0 +1,22 @@
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+
+<h2>Dit is de all_blogs page.<h2>
+<hr>
+    <br>
+    Harold heeft {{ blog.count }} blogs {{ blog.count|pluralize }}geschreven.
+    <br>
+
+{% for blog in blog %}
+    <br>
+    <a href="{% url 'blog:detail' blog.id %}"><h3>{{ blog.titel }}</h3></a>
+    <br>
+    <p>{{ blog.omschrijving|striptags|truncatechars:100 }}</p>
+    <p>{{ blog.datum|date:'d M Y '|upper }}</p>
+    <br>
+
+
+{% endfor %}
+
+{% endblock content %}

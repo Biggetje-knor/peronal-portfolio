@@ -1,0 +1,15 @@
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+
+<!--<h1>Dit is de detail pagina</h1> -->
+<p>
+<h2>{{ blog.titel }}</h2>
+<br>
+<h2>{{ blog.omschrijving|safe }}</h2>
+<br>
+   <h2>-- {{ blog.datum|date:'F jS Y S' }}---</h2>
+
+</p>
+
+{% endblock content %}

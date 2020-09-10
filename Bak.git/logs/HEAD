@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 303853ac268a46a4fd4b2c09b3ef131ec9211f08 Harold de Jong <hrjong@ziggo.nl> 1598968280 +0200	commit (initial): 1e werkt tot 16
+303853ac268a46a4fd4b2c09b3ef131ec9211f08 60bc2d8602bbde8ae6ee267dd4e051e6058b4493 Harold de Jong <hrjong@ziggo.nlcls> 1598970442 +0200	commit: 2e commit werkt tot 24
+60bc2d8602bbde8ae6ee267dd4e051e6058b4493 67af605380f99ba58c7bb33795fb9dec93e1cf54 Harold de Jong <hrjong@ziggo.nlcls> 1599135093 +0200	commit: 3e commit werkt tot 30
+67af605380f99ba58c7bb33795fb9dec93e1cf54 a1780e8f89811717eda82559a3eeb78e619764dd Harold de Jong <hrjong@ziggo.nlcls> 1599145015 +0200	commit: 4e werkt tot 36
+a1780e8f89811717eda82559a3eeb78e619764dd b85dfb82965ca38972853f3b663612f4d74b24ba Harold de Jong <hrjong@ziggo.nlcls> 1599146893 +0200	commit: 5e werkt tot 43
+b85dfb82965ca38972853f3b663612f4d74b24ba 7f8afc782c831560f6f11035faffcde49521f353 Harold de Jong <hrjong@ziggo.nlcls> 1599469962 +0200	commit: 6e werkt tot 48
+7f8afc782c831560f6f11035faffcde49521f353 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599474159 +0200	commit: 7e opgemaakt en werkt
+f7aee194290a695cc0ab3dcbc57868b80aedd642 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599484117 +0200	checkout: moving from master to f7aee19
+f7aee194290a695cc0ab3dcbc57868b80aedd642 7f8afc782c831560f6f11035faffcde49521f353 Harold de Jong <hrjong@ziggo.nlcls> 1599485610 +0200	checkout: moving from f7aee194290a695cc0ab3dcbc57868b80aedd642 to 7f8afc7
+7f8afc782c831560f6f11035faffcde49521f353 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599486115 +0200	pull origin master: Fast-forward
+f7aee194290a695cc0ab3dcbc57868b80aedd642 6d05013c9fd5e686b9c116b9e5241782e44f0a50 Harold de Jong <hrjong@ziggo.nlcls> 1599488077 +0200	commit: 8e commit
+6d05013c9fd5e686b9c116b9e5241782e44f0a50 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599488776 +0200	checkout: moving from 6d05013c9fd5e686b9c116b9e5241782e44f0a50 to f7aee19
+f7aee194290a695cc0ab3dcbc57868b80aedd642 0520dead5681f071cfd44d2fdb59cf5a16dc6300 Harold de Jong <hrjong@ziggo.nlcls> 1599557785 +0200	commit: 8e test
+0520dead5681f071cfd44d2fdb59cf5a16dc6300 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599558691 +0200	checkout: moving from 0520dead5681f071cfd44d2fdb59cf5a16dc6300 to master
+f7aee194290a695cc0ab3dcbc57868b80aedd642 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599558841 +0200	reset: moving to HEAD
+f7aee194290a695cc0ab3dcbc57868b80aedd642 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599558881 +0200	reset: moving to f7aee19
+f7aee194290a695cc0ab3dcbc57868b80aedd642 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599558933 +0200	checkout: moving from master to master
+f7aee194290a695cc0ab3dcbc57868b80aedd642 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599558964 +0200	reset: moving to f7aee19
+f7aee194290a695cc0ab3dcbc57868b80aedd642 0520dead5681f071cfd44d2fdb59cf5a16dc6300 Harold de Jong <hrjong@ziggo.nlcls> 1599558988 +0200	checkout: moving from master to HEAD
+0520dead5681f071cfd44d2fdb59cf5a16dc6300 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599559031 +0200	reset: moving to f7aee19
+f7aee194290a695cc0ab3dcbc57868b80aedd642 7f8afc782c831560f6f11035faffcde49521f353 Harold de Jong <hrjong@ziggo.nlcls> 1599559073 +0200	reset: moving to 7f8afc7
+7f8afc782c831560f6f11035faffcde49521f353 a781da46c975d5cf9ebed8024f4d7f8e144a1a01 Harold de Jong <hrjong@ziggo.nlcls> 1599560340 +0200	commit: 7e test1
+a781da46c975d5cf9ebed8024f4d7f8e144a1a01 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599560351 +0200	checkout: moving from HEAD to Master
+f7aee194290a695cc0ab3dcbc57868b80aedd642 7f8afc782c831560f6f11035faffcde49521f353 Harold de Jong <hrjong@ziggo.nlcls> 1599560697 +0200	checkout: moving from Master to 7f8afc7
+7f8afc782c831560f6f11035faffcde49521f353 428d8245ede85019aa0ee0e763be0a6025bfb152 Harold de Jong <hrjong@ziggo.nlcls> 1599564085 +0200	commit: 7e
+428d8245ede85019aa0ee0e763be0a6025bfb152 ad79f607344a161038c5c7472638377697c0b532 Harold de Jong <hrjong@ziggo.nlcls> 1599564726 +0200	commit: 8e en werkt
+ad79f607344a161038c5c7472638377697c0b532 5905f0d22a9c8cfe458fcb87c18b7cd6658e63af Harold de Jong <hrjong@ziggo.nlcls> 1599571792 +0200	commit: 9e Final!
+5905f0d22a9c8cfe458fcb87c18b7cd6658e63af f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599574187 +0200	checkout: moving from 5905f0d22a9c8cfe458fcb87c18b7cd6658e63af to master
+f7aee194290a695cc0ab3dcbc57868b80aedd642 f7aee194290a695cc0ab3dcbc57868b80aedd642 Harold de Jong <hrjong@ziggo.nlcls> 1599574365 +0200	checkout: moving from master to master
+f7aee194290a695cc0ab3dcbc57868b80aedd642 5905f0d22a9c8cfe458fcb87c18b7cd6658e63af Harold de Jong <hrjong@ziggo.nlcls> 1599582490 +0200	reset: moving to 5905f0d
+5905f0d22a9c8cfe458fcb87c18b7cd6658e63af 280d581147c3c67dfea945364a51c098a2b951a0 Harold de Jong <hrjong@ziggo.nlcls> 1599728960 +0200	commit: 10e met alle comments voor de life site
+280d581147c3c67dfea945364a51c098a2b951a0 280d581147c3c67dfea945364a51c098a2b951a0 Harold de Jong <hrjong@ziggo.nlcls> 1599758204 +0200	reset: moving to 280d581
+280d581147c3c67dfea945364a51c098a2b951a0 5905f0d22a9c8cfe458fcb87c18b7cd6658e63af Harold de Jong <hrjong@ziggo.nlcls> 1599758481 +0200	checkout: moving from master to 5905f0d
+5905f0d22a9c8cfe458fcb87c18b7cd6658e63af b4045351df35e1c303c7e06084cbf411d7b646aa Harold de Jong <hrjong@ziggo.nlcls> 1599760296 +0200	commit: 10e Final gereed voor productie
